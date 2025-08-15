@@ -1,0 +1,2 @@
+# d
+sistem menang awal
